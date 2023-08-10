@@ -1,0 +1,2 @@
+# 00-WebScraping
+ scrapy
